@@ -15,7 +15,7 @@ better understand a potential candidate's skill levels.
   to work on it any longer than an hour)
   1. When you are finished, provide us with a copy of your
   work at least **2 hours** prior to your scheduled interview. The code can be a patch-file, a zip file or a pull-request.
-  
+
 ## Exercises
 
 There are empty directories in this repo, and work should be done
