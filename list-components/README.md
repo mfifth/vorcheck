@@ -2,7 +2,7 @@
 
 **Language: JavaScript + HTML (or a templating system)**
 
-In the `list-components` directory, create one or more components to render a list of items. Feel free to use any libraries or frameworks for this exercise.
+In the `list-components` directory, create one or more components to render a list of items. Feel free to use any libraries or frameworks for this exercise, but assume that a reasonable build process is in place for the tools you choose. We don’t want you spending time to setup a fresh Ember/React/Vue/etc application, so don’t worry about getting the component actually rendering in a browser.
 
 This directory contains the `db.json` file which provides the data structure to be used to render a list component. Make reasonable assumptions about the purpose of this data.
 
